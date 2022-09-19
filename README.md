@@ -8,12 +8,12 @@ Europlanet 2024 RI has received funding from the European Union’s Horizon 2020
 
 This pipeline runs on Python 2.7
 
-git clone https://github.com/epn-ml/Tutorial_IAP_Boundaries.git
-python -m venv wsenv
-source wsenv/bin/activate
-cd Tutorial_IAP_Boundaries
-pip install -r requirements.txt
-ipython kernel install --user --name=wsenv
-jupyter lab
+- git clone https://github.com/epn-ml/Tutorial_IAP_Boundaries.git
+- python -m venv wsenv
+- source wsenv/bin/activate
+- cd Tutorial_IAP_Boundaries
+- pip install -r requirements.txt
+- ipython kernel install --user --name=wsenv
+- jupyter lab
 
 Download saved model, dataset and labels from https://figshare.com/articles/dataset/Tutorial_IAP_Boundaries_Data/21153403
