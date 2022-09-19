@@ -6,8 +6,6 @@ Europlanet 2024 RI has received funding from the European Union’s Horizon 2020
 
 # Installation Guidelines
 
-This pipeline runs on Python 2.7
-
 - git clone https://github.com/epn-ml/Tutorial_IAP_Boundaries.git
 - python -m venv wsenv
 - source wsenv/bin/activate
